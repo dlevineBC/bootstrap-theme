@@ -10,17 +10,8 @@ toc: true
 
 <div class="container">
 
-  <div id="banner">
-    <div class="row">
-      <div class="col-lg-8 col-md-7 col-sm-6">
-        <h1>Simple Theme Reference</h1>
-        <p class="lead">
-          For a complete Bootstrap docs, see <a href="https://getbootstrap.com/docs/4.0/">bootstrap docs</a>
-        </p>
-      </div>
-      
-    </div>
-    <div class="row">
+
+  <!--  <div class="row">
       <div class="col-lg-3 col-md-3 col-sm-4">
         <div class="list-group">
           <a class="list-group-item list-group-item-action" href="#navbars">Navbars</a>
@@ -35,18 +26,18 @@ toc: true
           <a class="list-group-item list-group-item-action" href="#dialogs">Dialogs</a>
         </div>
       </div>
-    </div>
-  </div>
+    </div> -->
+
 
   <!-- Navbar
   ================================================== -->
-  <div class="clearfix">
+
     <div class="row">
       <div class="col-lg-12">
         <div>
           <h1 id="navbars">Navbars</h1>
         </div>
-          
+
         <div>
           <h2>Expanded</h2>
           <nav class="navbar navbar-expand-lg navbar-dark bg-primary-nav">
@@ -111,7 +102,7 @@ toc: true
 
       </div>
     </div>
-  </div>
+
 
 
   <!-- Buttons
@@ -179,7 +170,7 @@ toc: true
               </div>
             </div>
           </div>
-          
+
           <div class="btn-group" role="group" aria-label="Button group with nested dropdown">
             <button type="button" class="btn btn-info">Info</button>
             <div class="btn-group" role="group">
@@ -190,7 +181,7 @@ toc: true
               </div>
             </div>
           </div>
-          
+
           <div class="btn-group" role="group" aria-label="Button group with nested dropdown">
             <button type="button" class="btn btn-danger">Danger</button>
             <div class="btn-group" role="group">
@@ -423,7 +414,7 @@ toc: true
                 <td>Column content</td>
               </tr>
             </tbody>
-          </table> 
+          </table>
         </div><!-- /example -->
       </div>
     </div>
@@ -1066,7 +1057,7 @@ toc: true
       <div class="col-lg-12">
         <div>
           <h1 id="dialogs">Dialogs</h1>
-          
+
         </div>
       </div>
     </div>
@@ -1125,4 +1116,3 @@ toc: true
     </div>
   </div>
 </div>
-
